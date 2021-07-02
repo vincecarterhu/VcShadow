@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tencent.shadow.dynamic</groupId>
+  <artifactId>manager</artifactId>
+  <versioning>
+    <latest>local--SNAPSHOT</latest>
+    <versions>
+      <version>local--SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210702065722</lastUpdated>
+  </versioning>
+</metadata>
