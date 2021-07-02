@@ -3,10 +3,11 @@
   <groupId>com.tencent.shadow.dynamic</groupId>
   <artifactId>manager-multi-loader-ext</artifactId>
   <versioning>
-    <latest>local--SNAPSHOT</latest>
+    <latest>1.0--SNAPSHOT</latest>
     <versions>
       <version>local--SNAPSHOT</version>
+      <version>1.0--SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210702065722</lastUpdated>
+    <lastUpdated>20210702085904</lastUpdated>
   </versioning>
 </metadata>
