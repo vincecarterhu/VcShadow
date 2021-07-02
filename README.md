@@ -1,2 +1,2 @@
 # VcShadow
-vc build Shadow
+vc vc  build Shadow  
