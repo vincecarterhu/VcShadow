@@ -1,2 +1,2 @@
 # VcShadow
-vc vc  build Shadow  
+vc  build Shadow  remote lib
