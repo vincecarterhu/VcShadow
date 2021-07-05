@@ -6,7 +6,7 @@
   <version>1.4</version>
   <packaging>aar</packaging>
   <scm>
-    <connection>https://github.com/null/Shadow.git</connection>
-    <url>https://github.com/null/Shadow/commit/</url>
+    <connection>https://github.com/Tencent/Shadow.git</connection>
+    <url>https://github.com/Tencent/Shadow/commit/</url>
   </scm>
 </project>
